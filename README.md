@@ -1,6 +1,7 @@
 # Machine Learning
 
-UE de Machine Learning que j'ai suivi lors de mon année de M1 (2019/2020)
+UE de Machine Learning que j'ai suivi lors de mon année de M1 (2019/2020).
+
 Le répertoire contient mes notebooks de TP (TME) ainsi qu'un notebook de projet.
 
 Thèmes vus:
